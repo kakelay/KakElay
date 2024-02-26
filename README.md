@@ -63,9 +63,10 @@
 
 
 ![](https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif)
-![Lottie Animation](https://assets7.lottiefiles.com/packages/lf20_8afb1c69-1fcc-485b-9aed-b4baa199e6f8.json)
+ 
 
 
+![]([https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 
 
