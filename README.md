@@ -1,14 +1,8 @@
 <!-- Introduction -->
 # Hi there, I'm Kakelay! 👋
-### Total contributions and streaks
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kakelay)
-
-## GitHub Stats
-![Kakelay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakelay&show_icons=true&theme=radical)
-
 <div style="display:flex; justify-content: space-between;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kakelay" alt="GitHub Streak" />
     <img src="https://github-readme-stats.vercel.app/api?username=kakelay&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kakelay" alt="GitHub Streak" />
 </div>
 
 
