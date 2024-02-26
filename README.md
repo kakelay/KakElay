@@ -1,20 +1,6 @@
 <!-- Introduction -->
-# Hi there, I'm Kakelay! 👋
-![Kakelay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakelay&show_icons=true&theme=radical)
-
-
-![Kakelay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakelay&show_icons=true&theme=radical&bg_color=000000)
-![Kakelay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakelay&show_icons=true&theme=radical&bg_color=ffffff)
-![Kakelay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakelay&show_icons=true&theme=radical&bg_color=ffffff&title_color=000000&text_color=000000)
-![Kakelay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakelay&show_icons=true&theme=radical&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=ffa500)
+# Hi there, I'm Kakelay! 👋 
 ![Kakelay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakelay&show_icons=true&theme=radical&bg_color=ffffff&title_color=ffa500&text_color=000000&icon_color=ffa500)
-
-
-
-
-
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakelay&layout=compact)
 ### 📈 Total contributions and streaks
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kakelay)
