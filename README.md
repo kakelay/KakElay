@@ -1,11 +1,5 @@
 <!-- Introduction -->
 # Hi there, I'm Kakelay! 👋
-I'm Kak Elay, a software development student at Norton University. I'm also a Flutter developer.
-
-🔭 I’m currently working on various Flutter projects to improve my skills.
-
-🌱 I’m currently learning more about mobile app design and user experience.
-
 ### Total contributions and streaks
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kakelay)
 
