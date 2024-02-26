@@ -24,7 +24,7 @@ I'm Kak Elay, a software development student at Norton University. I'm also a Fl
 > Advises about risks or negative outcomes of certain actions.
 
 <!-- Introduction -->
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Kakelay! 👋
 
 ## About Me
 - 🎓 Studying at Norton University
@@ -40,12 +40,12 @@ I'm Kak Elay, a software development student at Norton University. I'm also a Fl
 - JavaScript
 
 ## GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Kakelay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakelay&show_icons=true&theme=radical)
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakelay&layout=compact)
 
 ## Dashboard
-- Total Repositories: [![GitHub repositories](https://img.shields.io/github/repos/your-username)](https://github.com/your-username?tab=repositories)
-- Total Commits: [![GitHub commits](https://img.shields.io/github/commits-since/your-username/your-repository/latest)](https://github.com/your-username/your-repository/commits/main)
-- Repository Ranking: [![GitHub stars](https://img.shields.io/github/stars/your-username/your-repository)](https://github.com/your-username/your-repository/stargazers)
+- Total Repositories: [![GitHub repositories](https://img.shields.io/github/repos/kakelay)](https://github.com/kakelay?tab=repositories)
+- Total Commits: [![GitHub commits](https://img.shields.io/github/commits-since/kakelay/kakelay/latest)](https://github.com/kakelay/kakelay/commits/main)
+- Repository Ranking: [![GitHub stars](https://img.shields.io/github/stars/kakelay/kakelay)](https://github.com/kakelay/kakelay/stargazers)
