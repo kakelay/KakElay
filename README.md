@@ -86,16 +86,7 @@ To customise the following summaries for your GitHub, replace `kakelay` with you
 ### 📈 3.1. GitHub stats
 <img src="https://github-readme-stats.vercel.app/api?username=kakelay&show_icons=true"/>
 
-### 📈 3.2. Most used languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kakelay"/>
-
-More compact version:<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kakelay&layout=compact"/>
-
-### 📈 3.3. Total contributions and streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kakelay"/>
-
 ### 📈 3.4. GitHub repository
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kakelay&repo=github_profile"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kakelay&repo=https://github.com/kakelay"/>
 
  
