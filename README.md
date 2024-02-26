@@ -37,7 +37,7 @@ I'm Kak Elay, a software development student at Norton University. I'm also a Fl
 - Laravel
 - PHP
 - HTML/CSS
-- JavaScript
+ 
 
 ## GitHub Stats
 ![Kakelay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakelay&show_icons=true&theme=radical)
