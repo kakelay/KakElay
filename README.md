@@ -47,13 +47,13 @@
 
 
 > [!NOTE]
-> If you are not strong enough theydon't want to know you.
+> If you are not strong enough ,They don't want to know you.
 
 > [!TIP]
 > Focus on one thing then move on to the next level.
 
 > [!IMPORTANT]
-> My goal is to create your own app for nationwide use and establish a company for yourself.
+> My Goal is to create my own app for nationwide use and establish a company for yourself.
 
 > [!WARNING]
 > As a developer, it's important to be aware of the risks of project scope creep, technical debt, and inadequate testing, which can lead to delays, increased costs, and lower quality products.
