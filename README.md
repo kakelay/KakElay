@@ -1,4 +1,7 @@
+<div align="center">
 
+# <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="120" /> &nbsp; Cool Avatars for GitHub Profile &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="120" /> [🔝](#--gifs-for-readme--)
+</div>
 <!-- Introduction -->
 # Hi there, I'm Kakelay! 👋 
 ![Kakelay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakelay&show_icons=true&theme=radical&bg_color=ffffff&title_color=ffa500&text_color=000000&icon_color=ffa500)
