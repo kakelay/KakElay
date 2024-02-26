@@ -22,7 +22,7 @@
         <tr valign="top">
             <td width="80px" align="center">
             <span><strong>Flutter</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter Logo">
             </td>
             <td width="80px" align="center">
             <span><strong>Java</strong></span><br>
