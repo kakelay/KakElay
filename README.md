@@ -6,9 +6,17 @@
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakelay&layout=compact)
 
-## GitHub Stats             | ## Top Languages
----------------------------|--------------------------
-![Kakelay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakelay&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakelay&layout=compact)
+<div style="display:flex; justify-content: center;">
+    <div style="margin-right: 20px;">
+        <h2>GitHub Stats</h2>
+        <img src="https://github-readme-stats.vercel.app/api?username=kakelay&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </div>
+    <div>
+        <h2>Top Languages</h2>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakelay&layout=compact" alt="Top Languages" />
+    </div>
+</div>
+
 
 
 
