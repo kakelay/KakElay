@@ -67,26 +67,9 @@
 
 
 
-
-
-
-
-
- 
- 
-
-### 🎨 2.3. Sample gif
 ![](https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif)
  
 
-<a name="github-stats"></a>
-## 📈 3. GitHub README stats
-To customise the following summaries for your GitHub, replace `kakelay` with your GitHub username and `github_profile` with your repository to display.
-
-### 📈 3.1. GitHub stats
-<img src="https://github-readme-stats.vercel.app/api?username=kakelay&show_icons=true"/>
-
-### 📈 3.4. GitHub repository
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kakelay&repo=https://github.com/kakelay"/>
+ 
 
  
