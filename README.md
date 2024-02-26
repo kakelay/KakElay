@@ -18,6 +18,8 @@ I'm Kak Elay, a software development student at Norton University. I'm also a Fl
 ## Dashboard
 - Total Commits: [![GitHub commits](https://img.shields.io/github/commits-since/kakelay/kakelay/latest)](https://github.com/kakelay/kakelay/commits/main)
 - Repository Ranking: [![GitHub stars](https://img.shields.io/github/stars/kakelay/kakelay)](https://github.com/kakelay/kakelay/stargazers)
+
+
 ### Dashboard
  
 > [!NOTE]
@@ -46,4 +48,9 @@ I'm Kak Elay, a software development student at Norton University. I'm also a Fl
 - Laravel
 - PHP
 - HTML/CSS 
+
+
+
+### Total contributions and streaks
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kakelay)
 
