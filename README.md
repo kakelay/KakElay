@@ -4,6 +4,8 @@
 
 
 ![Kakelay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakelay&show_icons=true&theme=radical&bg_color=000000)
+![Kakelay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakelay&show_icons=true&theme=radical&bg_color=ffffff)
+
 
 
 
