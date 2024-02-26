@@ -1,10 +1,10 @@
 <!-- Introduction -->
 # Hi there, I'm Kakelay! 👋
-<div style="display:flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kakelay&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kakelay" alt="GitHub Streak" />
-</div>
+## GitHub Stats
+![Kakelay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakelay&show_icons=true&theme=radical)
 
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakelay&layout=compact)
 
 
 ## Top Languages
