@@ -6,15 +6,7 @@ I'm Kak Elay, a software development student at Norton University. I'm also a Fl
 
 🌱 I’m currently learning more about mobile app design and user experience.
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
-
----
-
 ### Dashboard
-
-Here's a dashboard showing my GitHub activity:
  
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
