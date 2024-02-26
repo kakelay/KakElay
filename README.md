@@ -1,4 +1,4 @@
-![Profile Image](https://avatars.githubusercontent.com/u/110383694?v=4)
+
 <img src="https://avatars.githubusercontent.com/u/110383694?v=4" width="100" height="100" alt="Profile Image" />
 
 
