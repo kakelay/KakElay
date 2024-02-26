@@ -28,8 +28,8 @@
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
-            <span><strong>React</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            <span><strong>Node</strong></span><br>
+            <img height="32px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://miro.medium.com/v2/resize:fit:800/1*v2vdfKqD4MtmTSgNP0o5cg.png)">
             </td>
             <td width="80px" align="center">
             <span><strong>git</strong></span><br>
