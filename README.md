@@ -6,16 +6,17 @@
 ## GitHub Stats
 ![Kakelay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakelay&show_icons=true&theme=radical)
 
-<div style="display:flex; flex-direction: column;">
-    <div style="display:flex; justify-content: space-between;">
-        <h3>Total contributions and streaks</h3>
+<div style="display:flex; justify-content: space-between;">
+    <div style="text-align: center;">
+        <h3>GitHub Streak</h3>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=kakelay" alt="GitHub Streak" />
     </div>
-    <div style="display:flex; justify-content: space-between;">
+    <div style="text-align: center;">
         <h3>GitHub Stats</h3>
         <img src="https://github-readme-stats.vercel.app/api?username=kakelay&show_icons=true&theme=radical" alt="GitHub Stats" />
     </div>
 </div>
+
 
 
 ## Top Languages
