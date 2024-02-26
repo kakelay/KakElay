@@ -22,7 +22,7 @@
         <tr valign="top">
             <td width="80px" align="center">
             <span><strong>Flutter</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn3d.iconscout.com/3d/free/thumb/free-flutter-9294855-7577998.png)">
+            <img height="32px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn3d.iconscout.com/3d/free/thumb/free-flutter-9294855-7577998.png)](https://web-strapi.mrmilu.com/uploads/flutter_logo_470e9f7491.png)">
             </td>
             <td width="80px" align="center">
             <span><strong>Java</strong></span><br>
