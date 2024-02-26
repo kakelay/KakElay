@@ -3,8 +3,13 @@
 
 ## GitHub Stats
 ![Kakelay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakelay&show_icons=true&theme=radical)
+### 📈 Total contributions and streaks
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kakelay)
+
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakelay&layout=compact)
+### 📈 Total contributions and streaks
+ 
 
  
 
