@@ -1,9 +1,10 @@
 <!-- Introduction -->
 # Hi there, I'm Kakelay! 👋
 ![Kakelay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakelay&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakelay&layout=compact)
 ### 📈 Total contributions and streaks
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kakelay)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakelay&layout=compact)
+
  
 <table width="320px">
     <tbody>
