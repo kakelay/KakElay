@@ -38,11 +38,11 @@ I'm Kak Elay, a software development student at Norton University. I'm also a Fl
 - PHP
 - HTML/CSS
  
-
-
-
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakelay&layout=compact)
+
+[![GitHub repositories](https://img.shields.io/github/repos/kakelay)](https://github.com/kakelay?tab=repositories&q=&type=&language=dart&sort=)
+
 
 ## Dashboard
 - Total Commits: [![GitHub commits](https://img.shields.io/github/commits-since/kakelay/kakelay/latest)](https://github.com/kakelay/kakelay/commits/main)
