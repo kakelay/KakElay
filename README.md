@@ -13,8 +13,4 @@ I'm Kak Elay, a software development student at Norton University. I'm also a Fl
 ### Dashboard
 
 Here's a dashboard showing my GitHub activity:
-
-🌞 Morning   102 commits  ███▎░░░░░░░░░░░░░░░░░  15.5%  
-🌆 Daytime   234 commits  ███████▍░░░░░░░░░░░░░  35.6%  
-🌃 Evening   188 commits  ██████░░░░░░░░░░░░░░░  28.6%  
-🌙 Night     134 commits  ████▎░░░░░░░░░░░░░░░░  20.4%  
+ 
