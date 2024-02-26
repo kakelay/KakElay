@@ -74,13 +74,3 @@
 
 
 
-![](https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif)
-
-- Programming
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
- 
-
- - JavaScript is the Boss
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
-<br><br>
-
