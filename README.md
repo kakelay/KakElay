@@ -1,8 +1,3 @@
-
-### Total contributions and streaks
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kakelay)
-
-
 <!-- Introduction -->
 # Hi there, I'm Kakelay! 👋
 I'm Kak Elay, a software development student at Norton University. I'm also a Flutter developer.
@@ -10,6 +5,9 @@ I'm Kak Elay, a software development student at Norton University. I'm also a Fl
 🔭 I’m currently working on various Flutter projects to improve my skills.
 
 🌱 I’m currently learning more about mobile app design and user experience.
+
+### Total contributions and streaks
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kakelay)
 
 ## GitHub Stats
 ![Kakelay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakelay&show_icons=true&theme=radical)
