@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakelay&layout=compact)
 ### 📈 Total contributions and streaks
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kakelay)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kakelay"/>
+
 
 
  
@@ -69,7 +69,7 @@
 
 ![](https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif)
 
-![]([https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif](https://cdnl.iconscout.com/lottie/premium/thumb/project-progress-10918616-8818141.mp4)https://cdnl.iconscout.com/lottie/premium/thumb/project-progress-10918616-8818141.mp4)
+
 
 
  
