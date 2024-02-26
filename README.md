@@ -63,7 +63,8 @@
 
 
 ![](https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif)
-![](https://lottie.host/8afb1c69-1fcc-485b-9aed-b4baa199e6f8/SMt9I3Dos4.json)
+![Lottie Animation](https://assets7.lottiefiles.com/packages/lf20_8afb1c69-1fcc-485b-9aed-b4baa199e6f8.json)
+
 
 
 
