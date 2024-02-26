@@ -5,7 +5,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kakelay)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakelay&layout=compact)
  
-### 🛠️ 5.3. Inspiration 3
 <table width="320px">
     <tbody>
         <tr valign="top">
