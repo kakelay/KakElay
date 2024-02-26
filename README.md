@@ -6,6 +6,9 @@ I'm Kak Elay, a software development student at Norton University. I'm also a Fl
 
 🌱 I’m currently learning more about mobile app design and user experience.
 
+## GitHub Stats
+![Kakelay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakelay&show_icons=true&theme=radical)
+
 ### Dashboard
  
 > [!NOTE]
@@ -39,16 +42,11 @@ I'm Kak Elay, a software development student at Norton University. I'm also a Fl
 - HTML/CSS
  
 
-## GitHub Stats
-![Kakelay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakelay&show_icons=true&theme=radical)
-
-[![GitHub repositories](https://img.shields.io/github/repos/kakelay)](https://github.com/kakelay?tab=repositories)
 
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakelay&layout=compact)
 
 ## Dashboard
-- Total Repositories: [![GitHub repositories](https://img.shields.io/github/repos/kakelay)](https://github.com/kakelay?page=3&tab=repositories)
 - Total Commits: [![GitHub commits](https://img.shields.io/github/commits-since/kakelay/kakelay/latest)](https://github.com/kakelay/kakelay/commits/main)
 - Repository Ranking: [![GitHub stars](https://img.shields.io/github/stars/kakelay/kakelay)](https://github.com/kakelay/kakelay/stargazers)
