@@ -1,6 +1,6 @@
 
-<img src="https://avatars.githubusercontent.com/u/110383694?v=4" width="100" height="100" alt="Profile Image" />
-
+### Total contributions and streaks
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kakelay)
 
 
 <!-- Introduction -->
@@ -50,7 +50,4 @@ I'm Kak Elay, a software development student at Norton University. I'm also a Fl
 - HTML/CSS 
 
 
-
-### Total contributions and streaks
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kakelay)
 
