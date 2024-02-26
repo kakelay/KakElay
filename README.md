@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**kakelay/KakElay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kak Elay, a software development student at Norton University. I'm also a Flutter developer.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on various Flutter projects to improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning more about mobile app design and user experience.
+
+📫 You can reach me on [LinkedIn](Your LinkedIn Profile Link).
+
+---
+
+### Dashboard
+
+Here's a dashboard showing my GitHub activity:
+
+🌞 Morning   102 commits  ███▎░░░░░░░░░░░░░░░░░  15.5%  
+🌆 Daytime   234 commits  ███████▍░░░░░░░░░░░░░  35.6%  
+🌃 Evening   188 commits  ██████░░░░░░░░░░░░░░░  28.6%  
+🌙 Night     134 commits  ████▎░░░░░░░░░░░░░░░░  20.4%  
