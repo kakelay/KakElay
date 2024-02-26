@@ -19,18 +19,7 @@
 - 🎓 Studying at Norton University
 - 💻 Flutter developer
 - 📊 Currently working on adding a dashboard with repository and commit counts
-
-## Tech Stack
-- Flutter
-- Dart
-- Laravel
-- PHP
-- HTML/CSS
-- JavaScript
-
-
-
-
+ 
 ## Dashboard
 - Total Repositories: [![GitHub repositories](https://img.shields.io/github/repos/kakelay)](https://github.com/kakelay?tab=repositories)
 - Total Commits: [![GitHub commits](https://img.shields.io/github/commits-since/kakelay/kakelay/latest)](https://github.com/kakelay/kakelay/commits/main)
