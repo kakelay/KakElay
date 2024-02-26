@@ -47,19 +47,19 @@
 
 
 > [!NOTE]
-> If you are not strong enough that you don't want to know you
+> If you are not strong enough theydon't want to know you.
 
 > [!TIP]
-> Helpful advice for doing things better or more easily.
+> Focus on one thing then move on to the next level.
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> My goal is to create your own app for nationwide use and establish a company for yourself.
 
 > [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
+> As a developer, it's important to be aware of the risks of project scope creep, technical debt, and inadequate testing, which can lead to delays, increased costs, and lower quality products.
 
 > [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+> Don't waste your time with your trip too much if you are not strong enough.
 
 
 <div align="center">
