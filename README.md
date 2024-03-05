@@ -77,10 +77,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </div>
-s
+
 
 <div align="center">
-  <img src="[https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif](https://i.pinimg.com/736x/1c/20/75/1c20755015bf82c2233c11c0ad56e3b5.jpg)https://i.pinimg.com/736x/1c/20/75/1c20755015bf82c2233c11c0ad56e3b5.jpg" width="300">
+    ![Image](https://i0.wp.com/thequotes.me/wp-content/uploads/2021/04/screenshot_20210418-052841.jpg?fit=1200%2C800&ssl=1&w=640)
 </div>
 
 
