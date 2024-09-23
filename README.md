@@ -72,9 +72,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </div>
 
-<p align="center">
-    <img src="https://i0.wp.com/thequotes.me/wp-content/uploads/2021/04/screenshot_20210418-052841.jpg?fit=1200%2C800&ssl=1&w=640" alt="Image">
-</p>
+
 
 ---
 
