@@ -66,4 +66,53 @@
 
 ---
 
+
+# Hi there, I'm kakelay 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=kakelay&color=blue)
+
+## About Me
+
+I'm a passionate developer with a keen interest in open-source projects and collaborative coding. I enjoy learning new technologies and applying them to solve real-world problems.
+
+- 🌱 I’m currently learning [Insert Technology or Framework]
+- 👯 I’m looking to collaborate on [Insert Project or Type of Projects]
+- 🤔 I’m looking for help with [Insert Area or Technology]
+- 💬 Ask me about [Insert Topics]
+- 📫 How to reach me: [Insert Email or Social Media]
+- ⚡ Fun fact: [Insert Fun Fact About You]
+
+## My Skills
+
+- **Languages:** [Insert Languages (e.g., JavaScript, Python, C#)]
+- **Frameworks:** [Insert Frameworks (e.g., React, Django, .NET)]
+- **Tools:** [Insert Tools (e.g., Git, Docker, Kubernetes)]
+- **Databases:** [Insert Databases (e.g., MySQL, MongoDB, PostgreSQL)]
+
+## GitHub Stats
+
+![kakelay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kakelay&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kakelay&layout=compact&theme=radical)
+
+## Projects
+
+Here are a few projects I've worked on:
+
+1. **[Project Name](Project Link)**: Brief description of the project.
+2. **[Project Name](Project Link)**: Brief description of the project.
+3. **[Project Name](Project Link)**: Brief description of the project.
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/kakelay)
+- [Twitter](https://twitter.com/kakelay)
+- [Personal Website](http://kakelay.com)
+
+## Contribution Graph
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kakelay&theme=react-dark)
+
  
