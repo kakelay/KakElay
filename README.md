@@ -45,7 +45,6 @@
     </tbody>
 </table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakelay&layout=compact)
 
 > [!NOTE]
 > If you are not strong enough ,They don't want to know you.
