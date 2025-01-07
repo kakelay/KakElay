@@ -1,9 +1,4 @@
 # [YOU CAN DREAM IT. YOU CAN BUILD IT.](#menu)
-
-<!-- Introduction -->
-### 📈 Total contributions and streaks
-![Kakelay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakelay&show_icons=true&theme=radical&bg_color=ffffff&title_color=ffa500&text_color=000000&icon_color=ffa500)
-
 <table width="320px">
     <tbody>
         <tr valign="top">
