@@ -1,5 +1,5 @@
 # [YOU CAN DREAM IT. YOU CAN BUILD IT.](#menu)
-<table width="320px">
+<table width="350px">
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
