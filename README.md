@@ -44,7 +44,7 @@
 > If you are not strong enough ,They don't want to know you.
 
 > [!TIP]
-> Focus on one thing then move on to the next level.
+> Focus on one thing then move on to the next level
 
 > [!IMPORTANT]
 > My Goal is to create my own app for nationwide use and establish a company for yourself
