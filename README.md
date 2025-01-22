@@ -10,6 +10,12 @@ I’m a **dedicated and passionate developer** specializing in **Flutter** for c
 
 ### Skills
 
+Here's the updated version of your "Skills" section with **Spring Boot** and **APIM Axway** included, along with their respective images:
+
+---
+
+### Skills
+
 <table width="350px">
     <tbody>
         <tr valign="top">
@@ -22,23 +28,33 @@ I’m a **dedicated and passionate developer** specializing in **Flutter** for c
                 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
             </td>
             <td width="80px" align="center">
-                <span><strong>HTML</strong></span><br>
-                <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+                <span><strong>Spring Boot</strong></span><br>
+                <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot Logo">
             </td>
             <td width="80px" align="center">
-                <span><strong>CSS</strong></span><br>
-                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+                <span><strong>HTML</strong></span><br>
+                <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
             </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
+                <span><strong>CSS</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+            <td width="80px" align="center">
                 <span><strong>Node.js</strong></span><br>
-                <img height="32px" src="https://miro.medium.com/v2/resize:fit:800/1*v2vdfKqD4MtmTSgNP0o5cg.png">
+                <img height="32px" src="https://miro.medium.com/v2/resize:fit:800/1*v2vdfKqD4MtmTSgNP0o5cg.png" alt="Node.js Logo">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>APIM Axway</strong></span><br>
+                <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Axway_logo.svg/1200px-Axway_logo.svg.png" alt="APIM Axway Logo">
             </td>
             <td width="80px" align="center">
                 <span><strong>Git</strong></span><br>
                 <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
             </td>
+        </tr>
+        <tr valign="top">
             <td width="80px" align="center">
                 <span><strong>GitHub</strong></span><br>
                 <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
@@ -50,6 +66,8 @@ I’m a **dedicated and passionate developer** specializing in **Flutter** for c
         </tr>
     </tbody>
 </table>
+
+---
 
 ---
 
