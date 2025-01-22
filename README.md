@@ -1,53 +1,66 @@
-# YOU CAN DREAM IT. YOU CAN BUILD IT.
+# [YOU CAN DREAM IT. YOU CAN BUILD IT.](#menu)
+<table width="350px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+                <span><strong>Flutter</strong></span><br>
+                <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter Logo">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>Java</strong></span><br>
+                <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>HTML</strong></span><br>
+                <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>CSS</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+                <span><strong>Node</strong></span><br>
+                <img height="32px" src="https://miro.medium.com/v2/resize:fit:800/1*v2vdfKqD4MtmTSgNP0o5cg.png">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>git</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>GitHub</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            <td width="80px" align="center">
+                <span><strong>Canva</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-## About Me
 
-I’m a **dedicated and passionate developer** specializing in **Flutter** for crafting elegant, responsive, and user-friendly mobile applications.  
-I also have experience in **Java**, **HTML**, **CSS**, and **Node.js**, making me a versatile programmer with a solid understanding of both front-end and back-end development.
+> [!NOTE]
+> If you are not strong enough ,They don't want to know you.
+
+> [!TIP]
+> Focus on one thing then move on to the next level
+
+> [!IMPORTANT]
+> My Goal is to create my own app for nationwide use and establish a company for yourself
+
+> [!WARNING]
+> As a developer, it's important to be aware of the risks of project scope creep, technical debt, and inadequate testing, which can lead to delays, increased costs, and lower quality products.
+
+> [!CAUTION]
+> Don't waste your time with your trip too much if you are not strong enough.
+ 
+### 2025
+
+
+
 
 ---
 
-## Skills
 
-| Skill          | Logo                                                                                   |
-|----------------|----------------------------------------------------------------------------------------|
-| **Flutter**    | ![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg) |
-| **Java**       | ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)          |
-| **Spring Boot**| ![Spring Boot](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg) |
-| **HTML**       | ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)         |
-| **CSS**        | ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)           |
-| **Node.js**    | ![Node.js](https://miro.medium.com/v2/resize:fit:800/1*v2vdfKqD4MtmTSgNP0o5cg.png)         |
-| **APIM Axway** | ![APIM Axway](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Axway_logo.svg/1200px-Axway_logo.svg.png) |
-| **Git**        | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg)                |
-| **GitHub**     | ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)     |
-
----
-
-## Personal Philosophy
-
-> **If you are not strong enough, they don't want to know you.**  
-> **Focus on one thing, then move on to the next level.**
-
----
-
-## Interests and Goals
-
-- I’m currently exploring **state management in Flutter** and building robust, scalable applications.
-- **Future goal:** Launch a mobile app that makes a difference in people’s daily lives and gains nationwide recognition.
-- I enjoy finding solutions to complex problems and learning new technologies to stay ahead in the development field.
-
----
-
-## 2025 Focus
-
-This year, I’m focusing on:
-
-1. Sharpening my **Flutter development** skills to build more feature-rich applications.
-2. Learning advanced back-end development to ensure seamless integration with front-end interfaces.
-3. Expanding my knowledge of **project management** and **entrepreneurship** to turn my dreams into reality.
-
----
-
-Thank you for visiting my GitHub! Feel free to connect with me and explore my projects.
-
-[![GitHub Profile](https://img.shields.io/badge/GitHub-Visit_My_Profile-blue?style=for-the-badge&logo=github)](https://github.com/kakelay)
+  
