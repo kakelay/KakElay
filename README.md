@@ -1,6 +1,6 @@
 # IF YOU CAN WRITE DOWN THE PROBLEM, HALF OF IT IS ALREADY SOLVED.
 
-(#menu)
+#menu
 
 <table width="700px">
   <tbody>
