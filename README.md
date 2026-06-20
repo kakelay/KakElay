@@ -26,8 +26,6 @@
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
       </td>
     </tr>
-
-```
 <tr valign="top">
   <td width="80px" align="center">
     <span><strong>HTML</strong></span><br>
@@ -88,7 +86,6 @@
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   </td>
 </tr>
-```
 
   </tbody>
 </table>
