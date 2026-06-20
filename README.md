@@ -102,19 +102,8 @@
 > [!CAUTION]
 > Don't spend too much time comparing yourself to others. Invest that time in improving your skills and building real projects.
 
-### 🚀 2025 Goals
-
-* Build and launch at least one production-ready application.
-* Master Spring Boot and Flutter architecture.
-* Learn system design and scalable software development.
-* Deepen knowledge of PostgreSQL and Redis.
-* Contribute to open-source projects.
-* Reach 100+ GitHub contributions each month.
-* Build products that solve real problems in Cambodia.
-* Start the foundation of my future software company.
-
----
-
+ 
 ### Quote
 
 > "Success comes from solving real problems, not from writing more code."
+> "Plane it out , work it out. And remember whatever decision you make , don't regret it."
