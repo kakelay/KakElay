@@ -81,10 +81,7 @@
     <span><strong>APIM Axway</strong></span><br>
     <img height="32" src="https://store-images.s-microsoft.com/image/apps.7964.4567ec47-2354-4eca-a77b-ae58f7ca94ef.70843982-f65e-4033-9350-bf920dad46fe.0586e030-2b4f-4f9e-8fcf-d43ec568fe27">
   </td>
-  <td width="80px" align="center">
-    <span><strong>Canva</strong></span><br>
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-  </td>
+
 </tr>
 
   </tbody>
