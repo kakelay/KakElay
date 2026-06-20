@@ -105,5 +105,11 @@
  
 ### Quote
 
+### Quotes
+
 > "Success comes from solving real problems, not from writing more code."
-> "Plane it out , work it out. And remember whatever decision you make , don't regret it."
+
+> "Plan it out, work it out. And remember, whatever decision you make, don't regret it."
+
+> "If you can write down the problem, half of it is already solved."
+
